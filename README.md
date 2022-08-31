@@ -1,5 +1,5 @@
 # Data Science projects
-*Some projects made by myself during Yandex.Praktikum's DS course*
+*These projects are made by myself during Yandex.Praktikum's DS course*
 
 **Certificate:**   
 
@@ -34,6 +34,6 @@ EN: https://drive.google.com/file/d/15pbG1oMh3cj5TBHyY11xmVjIJtDec404
     * pandas, sklearn, lightgbm
     * *Feature importance, One-Hot encoding, ROC-AUC, gradient boosting (LightGBM)*
 
-4. **Churn-rate:** predicting clients’ refusal of a bank's services basing on the historical data
+4. **Churn-rate:** predicting clients’ refusal of a bank's services based on the historical data
     * pandas, sklearn
     * *Accuracy, Precision, Recall, F1-score, ROC-AUC, up/downsampling*
