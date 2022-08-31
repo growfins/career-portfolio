@@ -1,5 +1,5 @@
 # Предсказание оттока клиентов
-*Acciracy, Precision, Recall, F1-score, ROC-AUC, up/downsampling*
+*Accuracy, Precision, Recall, F1-score, ROC-AUC, up/downsampling*
 
 ## Особенность проекта
 1. Сравнительно небольшое количество объектов (10 тыс.)
